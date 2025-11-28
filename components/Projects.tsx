@@ -20,7 +20,7 @@ const projects = [
         title: "Portfolio Website",
         description: "A personal portfolio site showcasing projects and skills (like this one!).",
         tags: ["Next.js", "Framer Motion", "Tailwind"],
-        link: "#",
+        link: "https://github.com/1darkz/portfolio",
     },
 ]
 
